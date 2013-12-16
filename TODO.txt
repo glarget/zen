@@ -23,3 +23,6 @@ Technologies web :
 Titre : Ajout de JSF dans les technologies web
 
 Contenu : JSF est une technologie web envisagée pour le projet
+
+Application lourde :
+Technologie Swing
