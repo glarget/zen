@@ -1,2 +1,2 @@
-Texte de présentation de ce TP
-Les taches techniques à effectuer sont dans le fichier TODO.txt
+Texte de prï¿½sentation de cet exercice
+Les taches techniques ï¿½ effectuer sont dans le fichier TODO.txt
